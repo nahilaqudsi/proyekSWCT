@@ -1,0 +1,439 @@
+@charset "utf-8";
+/* CSS Document */
+img.bgftr{
+	height:300px;
+	width:1349px;
+}
+
+img.ftr{
+	position:absolute;
+	height:300px;
+	width:1349px;
+	top: 720px;	
+	z-index:0;
+	
+}
+img.isi{
+	position:absolute;
+	height:700px;
+	width:1349px;
+	top: 250px;
+	z-index:-1;	
+	
+}
+img.logo{
+	position:absolute;
+	height:220px;
+	width: 1050px;
+	left: 160px;
+	top: 15px;
+	z-index:1;
+}
+
+img.tftr{
+	position:absolute;
+	height:140px;
+	width: 1000px;
+	left: 140px;
+	top: 810px;
+	z-index:1;
+}
+
+ img.twtr{
+	position:absolute;
+	height:53px;
+	width: 42px;
+	left: 1150px;
+	top: 840px;
+	z-index:1;
+}
+
+img.ig{
+	position:absolute;
+	height: 46px;
+	width: 47px;
+	left: 1147px;
+	top: 895px;
+	z-index:1;
+}
+
+img.thome{
+	position:absolute;
+	height: 50px;
+	width: 120px;
+	left: 210px;
+	top: 108px;
+	z-index:2;
+}
+img.tmenu{
+	position:absolute;
+	height: 50px;
+	width: 120px;
+	left: 330px;
+	top: 107px;
+	z-index:2;
+}
+img.tgallery{
+	position:absolute;
+	height: 50px;
+	width: 120px;
+	left: 450px;
+	top: 107px;
+	z-index:2;
+}
+img.tabout{
+	position:absolute;
+	height: 50px;
+	width: 120px;
+	left: 790px;
+	top: 107px;
+	z-index:2;
+}
+img.torder{
+	position:absolute;
+	height: 50px;
+	width: 120px;
+	left: 910px;
+	top: 107px;
+	z-index:2;
+}
+img.tcontact{
+	position:absolute;
+	height: 50px;
+	width: 120px;
+	left: 1030px;
+	top: 107px;
+	z-index:2;
+}
+.tfooter1{
+	position:absolute;
+	height:40px;
+	width: 39px;
+	left: 1195px;
+	top: 909px;
+	z-index:1;
+	font-family:Century Gothic;
+	font-size:16px;
+	font-weight:bold;
+	color: #fb5776;
+}
+.tfooterr1{
+	position:absolute;
+	height:40px;
+	width: 39px;
+	left: 1195px;
+	top: 859px;
+	z-index:1;
+	font-family:Century Gothic;
+	font-size:16px;
+	font-weight:bold;
+	color: #fb5776;
+}
+/*hal2*/
+body.hal2{
+	background-color: #ffe9e8;	
+}
+img.headerpink{
+	height:230px;
+	width:1349px;
+}
+.pinkftr{
+	position:absolute;
+	height:61px;
+	width:1349px;
+	top: 975px;	
+	z-index:1;
+	background-image:url(images/imageshal2/images/footerpink_02.png);
+	font-family:Century Gothic;
+	font-size:20px;
+	color:#FFFFFF;
+	padding:24px;
+	padding-left:530px;
+	  
+}
+img.fotohead{
+	position:absolute;
+	height:400px;
+	width:1100px;
+	top: 240px;
+	left: 130px;
+	z-index:-1;	 
+}
+img.fotocontent1{
+	height:257px;
+	width:276px;
+	top: 280px;
+	z-index:1;
+	margin-top: 58px;
+	margin-left:9px;
+	box-shadow: 4px 4px 5px grey;
+}
+img.fotocontent1:hover{
+	height:280px;
+	width:300px;
+	top: 280px;
+	z-index:1;
+	margin-top: 58px;
+	margin-left:3px;  
+	box-shadow: 4px 4px 5px grey;
+}
+
+div.gambar{
+margin-left:97px;
+}
+img.logo2{
+	position:absolute;
+	height:190px;
+	width: 950px;
+	left: 206px;
+	top: 15px;
+	z-index:1;
+}
+img.tfooter{
+	position:absolute;
+	height: 55px;
+	width: 440px;
+	left: 462px;
+	top: 641px;
+	z-index:3;
+}
+img.thome2{
+	position:absolute;
+	height: 50px;
+	width: 120px;
+	left: 260px;
+	top: 94px;
+	z-index:2;
+}
+img.tmenu2{
+	position:absolute;
+	height: 45px;
+	width: 115px;
+	left: 376px;
+	top: 94px;
+	z-index:2;
+}
+img.tgallery2{
+	position:absolute;
+	height: 70px;
+	width: 115px;
+	left: 480px;
+	top: 95px;
+	z-index:2;
+}
+img.tabout2{
+	position:absolute;
+	height: 52px;
+	width: 120px;
+	left: 760px;
+	top: 94px;
+	z-index:2;
+}
+img.torder2{
+	position:absolute;
+	height: 66px;
+	width: 140px;
+	left: 869px;
+	top: 95px;
+	z-index:2;
+}
+img.tcontact2{
+	position:absolute;
+	height: 80px;
+	width: 170px;
+	left: 962px;
+	top: 71px;
+	z-index:2;
+}
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+
+}
+img.tfooter2{
+	position:absolute;
+	height: 40px;
+	width: 290px;
+	left: 532px;
+	top: 1002px;
+	z-index:2;
+}
+
+/*hal3*/
+img.bghal3{
+		min-height: 100%;
+        min-width: 1024px;
+ 
+        width: 100%;
+        height: auto;
+ 
+        position:fixed;
+        top:-180px;
+		background-position:center;
+		z-index:-1;
+}
+img.headerhal3{
+	height:230px;
+	width:1349px;
+	z-index:2;
+}
+img.logo3{
+	position:absolute;
+	height:190px;
+	width: 950px;
+	left: 206px;
+	top: 13px;
+	z-index:1;
+}
+img.thome3{
+	position:absolute;
+	height: 95px;
+	width: 100px;
+	left: 265px;
+	top: 90px;
+	z-index:2;
+}
+img.tmenuu3{
+	position:absolute;
+	height: 69px;
+	width: 115px;
+	left: 356px;
+	top: 88px;
+	z-index:2;
+}
+img.tgallery3{
+	position:absolute;
+	height: 54px;
+	width: 125px;
+	left: 460px;
+	top: 86px;
+	z-index:2;
+}
+img.tabout3{
+	position:absolute;
+	height: 52px;
+	width: 110px;
+	left: 777px;
+	top: 89px;
+	z-index:2;
+}
+img.torder3{
+	position:absolute;
+	height: 53px;
+	width: 120px;
+	left: 870px;
+	top: 90px;
+	z-index:2;
+}
+img.tcontact3{
+	position:absolute;
+	height: 54px;
+	width: 110px;
+	left: 980px;
+	top: 89px;
+	z-index:2;
+}
+img.thead{
+	position:absolute;
+	height: 105px;
+	width: 540px;
+	left: 410px;
+	top: 245px;
+	z-index:2;
+}
+#form-hori{
+width: 390px;
+padding-bottom: 20px;
+margin-bottom: 10px;
+padding-top:20px;
+margin-top:180px;
+margin-left:-12px;
+}
+#form{
+width:380px;
+height:55px;
+padding-left:10px;
+color:#ffe9e8;
+}
+input{
+border-radius: 10px;
+border:none;
+background-color:#ff91a6;
+margin-bottom:30px;
+font-family: Century Gothic;
+font-size: 22px;
+color:#FFFFFF;
+}
+.button {
+    background-color: #fb5776;
+    border: none;
+	border-radius: 10px;
+	box-shadow: 4px 4px 5px grey;
+    color: white;
+    padding: 18px 48px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+	font-family: Century Gothic;
+    margin: -2px 10px;
+    cursor: pointer;
+	margin-left:-4px;
+	text-decoration:none;	
+}
+img.sosmed3{
+	position:absolute;
+	height:39px;
+	width: 42px;
+	left: 608px;
+	top: 870px;
+	z-index:1;
+}
+img.sosmedig3{
+	position:absolute;
+	height:41px;
+	width: 41px;
+	left: 650px;
+	top: 869px;
+	z-index:1;
+}
+img.sosmedtw3{
+	position:absolute;
+	height:41px;
+	width: 39px;
+	left: 693px;
+	top: 868px;
+	z-index:1;
+}
+.tfooter3{
+	position:absolute;
+	height:40px;
+	width: 39px;
+	left: 560px;
+	top: 912px;
+	z-index:1;
+	font-family:Century Gothic;
+	font-size:18px;
+	color: #fb5776;
+	
+}
+.tfooterrr3{
+	position:absolute;
+	height:40px;
+	width: 300px;
+	left: 624px;
+	top: 597px;
+	z-index:1;
+	font-style:normal;
+	font-family:Century Gothic;
+	font-size:20px;
+	color:#fb5776;
+}
+
+a{
+text-decoration:none;
+}
+a:hover{
+text-decoration:underline;
+}
+
